@@ -1,0 +1,5 @@
+﻿  Rezervare.c
+C:\Users\Krekn\source\repos\pregatire test\pregatire test\Rezervare.c(65,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Rezervare.obj : error LNK2005: dezalocare already defined in Gestionare_retete.obj
+Rezervare.obj : error LNK2005: main already defined in Gestionare_retete.obj
+C:\Users\Krekn\source\repos\pregatire test\x64\Debug\pregatire test.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -1,0 +1,35 @@
+101
+Hotel Continental
+100
+3
+Ionescu Mihai
+2024-07-01/2024-07-10
+250.00
+102
+Hotel International
+150
+2
+Popescu Elena
+2024-08-05/2024-08-15
+300.00
+103
+Hotel Continental
+100
+5
+Marinescu Ana
+2024-09-01/2024-09-05
+250.00
+104
+Hotel Hilton
+200
+1
+Ionescu Mihai
+2024-10-10/2024-10-12
+450.00
+105
+Hotel International
+150
+4
+Dragomir Radu
+2024-11-20/2024-11-25
+300.00
