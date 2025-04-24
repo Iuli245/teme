@@ -1,0 +1,4 @@
+C:\Users\Krekn\source\repos\test 2023\test 2023\obj\Debug\test 2023.csproj.AssemblyReference.cache
+C:\Users\Krekn\source\repos\test 2023\test 2023\obj\Debug\test_2023.Properties.Resources.resources
+C:\Users\Krekn\source\repos\test 2023\test 2023\obj\Debug\test 2023.csproj.GenerateResource.cache
+C:\Users\Krekn\source\repos\test 2023\test 2023\obj\Debug\test 2023.csproj.CoreCompileInputs.cache
